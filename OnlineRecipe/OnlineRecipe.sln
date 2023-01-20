@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineRecipe", "OnlineRecipe\OnlineRecipe.csproj", "{6329F811-D5CE-437F-B7C0-6E4AF79F8DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategoryAdoLib", "CategoryAdoLib\CategoryAdoLib.csproj", "{7E0BF5D9-5AE0-48D1-B08F-868BCE0633A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6329F811-D5CE-437F-B7C0-6E4AF79F8DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6329F811-D5CE-437F-B7C0-6E4AF79F8DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6329F811-D5CE-437F-B7C0-6E4AF79F8DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6329F811-D5CE-437F-B7C0-6E4AF79F8DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0BF5D9-5AE0-48D1-B08F-868BCE0633A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0BF5D9-5AE0-48D1-B08F-868BCE0633A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0BF5D9-5AE0-48D1-B08F-868BCE0633A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0BF5D9-5AE0-48D1-B08F-868BCE0633A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5716E43A-4BF1-456B-9D2E-7E5A51276466}
+	EndGlobalSection
+EndGlobal

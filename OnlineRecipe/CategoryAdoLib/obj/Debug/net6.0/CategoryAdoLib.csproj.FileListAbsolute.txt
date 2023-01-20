@@ -1,0 +1,12 @@
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\CategoryAdoLib.csproj.AssemblyReference.cache
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\CategoryAdoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\CategoryAdoLib.AssemblyInfoInputs.cache
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\CategoryAdoLib.AssemblyInfo.cs
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\CategoryAdoLib.csproj.CoreCompileInputs.cache
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\bin\Debug\net6.0\CategoryAdoLib.deps.json
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\bin\Debug\net6.0\CategoryAdoLib.dll
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\bin\Debug\net6.0\CategoryAdoLib.pdb
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\CategoryAdoLib.dll
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\refint\CategoryAdoLib.dll
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\CategoryAdoLib.pdb
+C:\Training\Asp.net mvc Core\OnlineRecipe\CategoryAdoLib\obj\Debug\net6.0\ref\CategoryAdoLib.dll
