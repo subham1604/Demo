@@ -18,6 +18,8 @@ namespace CategoryAdoLib
             con = new SqlConnection();
             con.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=RecipesDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         }
+
+        //function to get all categories
         public List<Category> GetCategories()
         {
             var lstCat = new List<Category>();
