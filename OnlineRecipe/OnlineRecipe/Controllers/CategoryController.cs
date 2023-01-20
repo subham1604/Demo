@@ -6,6 +6,7 @@ namespace OnlineRecipe.Controllers
     public class CategoryController : Controller
     {
        private Repository repository;
+        //repository
 
         public CategoryController()
         {
